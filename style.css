@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    text-decoration-style: solid;
+}
+
+#album {
+    left margin: 60px;
+    right margin: 60px;
+    top margin: 60px;
+    bottom margin: 60px;
+}
